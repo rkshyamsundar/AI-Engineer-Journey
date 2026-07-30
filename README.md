@@ -1,15 +1,46 @@
-# AI Engineer Journey
+# 🤖 AI Engineer Journey
 
-## Day 1
+Welcome to my AI Engineering learning journey.
 
-Started learning AI Engineering from scratch.
+## 👨‍🎓 About Me
 
-### Goal
-Become a professional AI Engineer.
+- 🎓 CSE Student
+- 📚 Learning AI & Machine Learning from scratch
+- 💻 Building projects daily
+- 🚀 Goal: Become a Professional AI Engineer
 
 ---
-Current Phase:
-- Phase 1: Programming Foundations
 
-Status:
-- ✅ Day 1 Started
+# 📅 Progress
+
+## Phase 1 - Programming Foundations
+
+### Week 1
+
+- ✅ Day 1
+- ⬜ Day 2
+- ⬜ Day 3
+- ⬜ Day 4
+- ⬜ Day 5
+- ⬜ Day 6
+- ⬜ Day 7
+
+---
+
+## 📂 Projects
+
+Coming Soon...
+
+---
+
+## 🛠 Skills Learned
+
+- GitHub
+- Git
+- Python (In Progress)
+
+---
+
+## 🎯 Goal
+
+Become a Job-Ready AI Engineer and build real-world AI applications.
